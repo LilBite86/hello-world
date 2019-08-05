@@ -1,2 +1,3 @@
 # hello-world
-First Repository
+
+This is my first repository.  Something to work, build a profolio, learn some new things.
